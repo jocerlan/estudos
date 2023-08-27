@@ -12,6 +12,8 @@
     border: solid 5px;
     animation: nav-border 3s infinite reverse;
     transform: rotate(360);
+    display: flex;
+    justify-content:space-around;
 }
 
 .navbar h1{
