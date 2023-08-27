@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.page-header {
+    width: auto;
+    border: solid;
+    background-color: rgb(234, 114, 8);
+}
+.container {
+    color: black;
+}
+
+.container ul li {
+    display: flex;
+    
+}
